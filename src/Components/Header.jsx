@@ -23,7 +23,7 @@ export default function Header() {
                       </Link>
                     </div>
                     <div className="button d-flex">
-                    <a href="/assets/Mariam_Tarek_CV.pdf" download>
+                    <a href="./assets/Mariam_Tarek_CV.pdf" download>
                         Download CV
                     </a>
 
